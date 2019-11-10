@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml:1:1-2:37
+INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml:1:1-2:37
+INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml:1:1-2:37
+INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml:1:1-2:37
+INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml:1:1-2:37
+INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml:1:1-2:37
+INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml:1:1-2:37
+	package
+		ADDED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml:2:5-34
+		INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml:1:1-2:37
+		INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml:1:1-2:37
+		INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudy4.0\Project1\applib2\src\main\AndroidManifest.xml
