@@ -1,26 +1,32 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:1:1-2:37
-INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:1:1-2:37
-INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:1:1-2:37
-INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:1:1-2:37
-INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:1:1-2:37
-INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:1:1-2:37
-INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:1:1-2:37
+ADDED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:2:1-9:12
 	package
-		ADDED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:2:5-34
+		ADDED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml
 		INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml
-		ADDED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:1:1-2:37
+		ADDED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:2:1-9:12
 		INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml
-		ADDED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:1:1-2:37
+		ADDED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:2:1-9:12
 		INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:1:11-69
+		ADDED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:5:5-7:19
+activity#com.example.applib1.MainActivity
+ADDED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:6:9-59
+	android:name
+		ADDED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:6:19-47
 uses-sdk
 INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml

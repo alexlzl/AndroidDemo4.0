@@ -16,5 +16,11 @@ class MainActivity : AppCompatActivity() {
         textView2=findViewById(R.id.test2)
         textView2?.text= this.packageName
         textView?.text=Lib2().testLib2()
+
     }
+    fun test(){
+
+    }
+
+    
 }

@@ -8,4 +8,8 @@
         android:minSdkVersion="16"
         android:targetSdkVersion="29" />
 
+    <application>
+        <activity android:name="com.example.applib1.MainActivity" />
+    </application>
+
 </manifest>

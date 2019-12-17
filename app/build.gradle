@@ -12,16 +12,58 @@ android {
         targetSdkVersion 29
         versionCode 1
         versionName "1.0"
-
+        flavorDimensions "company","channel"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
     buildTypes {
-        release {
-            minifyEnabled false
+        debug {
+            minifyEnabled true
+            shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
+
+
+//        pre.initWith(debug)
+//        pre {
+//            buildConfigField "String", "BASE_URL", "\"https://pre.api/\""
+//        }
+//        abc{
+////            buildConfigField "String", "BASE_URL", "\"https://pre.api/\""
+//        }
     }
+
+    flavorDimensions('abi')
+    productFlavors{
+        x86 {
+            dimension 'abi'
+
+            applicationId 'com.zinc.bear'
+
+            manifestPlaceholders = [
+                    hostName: "www.x86.com",
+                    logo    : "@drawable/app_icon",
+                    appName : "bear",
+            ]
+        }
+
+        armV7 {
+            dimension 'abi'
+
+            applicationId 'com.zinc.shark'
+
+            manifestPlaceholders = [
+                    hostName: "www.armv7.com",
+                    logo    : "@drawable/app_icon",
+                    appName : "shark",
+            ]
+        }
+    }
+
+
+
+
+
 
 }
 
@@ -31,7 +73,7 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.1.0'
     implementation 'androidx.core:core-ktx:1.1.0'
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
-    api project(path: ':applib1')
+    implementation project(path: ':applib1')
     implementation 'androidx.recyclerview:recyclerview:1.1.0-rc01'
     implementation 'com.google.android.material:material:1.0.0'
     implementation 'androidx.annotation:annotation:1.1.0'

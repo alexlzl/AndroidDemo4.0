@@ -10,4 +10,11 @@
 9        android:targetSdkVersion="29" />
 9-->E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml
 10
-11</manifest>
+11    <application>
+11-->E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:5:5-7:19
+12        <activity android:name="com.example.applib1.MainActivity" />
+12-->E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:6:9-59
+12-->E:\AndroidStudy4.0\Project1\applib1\src\main\AndroidManifest.xml:6:19-47
+13    </application>
+14
+15</manifest>
